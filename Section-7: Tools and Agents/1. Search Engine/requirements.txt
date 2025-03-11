@@ -1,2 +1,3 @@
 wikipedia
 arxiv
+duckduckgo-search
